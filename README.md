@@ -1,2 +1,2 @@
-# Guess-my-level
+# Guess-my-number
 python project
